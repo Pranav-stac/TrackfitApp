@@ -1,5 +1,4 @@
 
----
 
 # 🏋️ TrackFit - Your Personal Fitness & Diet Companion 📲
 
@@ -17,7 +16,7 @@ Welcome to **TrackFit**, an innovative fitness and diet recommendation app that 
 ### 2. 🏃 AR-Enhanced Fitness Exercises
    - **AR Workout Learning**: Watch and follow 3D models of recommended exercises in AR, right in your space.
    - **Posture Correction**: Using OpenCV, TrackFit monitors and corrects your posture in real-time to improve your form.
-   
+
 ### 3. 🤖 Voice-Controlled Fitness Bot
    - **Hands-Free Guidance**: Just ask the voice bot for personalized fitness tips, track your progress, or learn about new exercises.
    - **Real-Time Updates**: Get reminders, motivational quotes, and answers to common fitness questions.
@@ -36,9 +35,20 @@ Welcome to **TrackFit**, an innovative fitness and diet recommendation app that 
 
 ### 🏞️ Immersive AR View
    - **3D Exercise Models**: Watch recommended exercises in AR, interact with 3D models, and understand each movement better.
-   
+
 ### 📈 Progress Visualization
    - **Graphs & Insights**: Track your fitness over time with clear graphs and in-depth insights to keep you motivated.
+
+---
+
+## 🖼️ Screenshots
+
+| Feature        | Image                                                                 |
+|----------------|----------------------------------------------------------------------|
+| **Dashboard**  | <img src="Images/1731005882429.jpeg" width="300">                   |
+| **Diet Plans** | <img src="Images/1731005882463.jpeg" width="300">                   |
+| **AR Workout** | <img src="Images/1731005883121.jpeg" width="300">                   |
+| **Progress**   | <img src="Images/1731005883311.jpeg" width="300">                   |
 
 ---
 
@@ -57,8 +67,9 @@ Welcome to **TrackFit**, an innovative fitness and diet recommendation app that 
    ```bash
    flutter run
    ```
-## dont forget to replace the ngrok api like from my server to your server from my backend repository
-https://github.com/Pranav-stac/TrackfitBackend
+4. Replace the **ngrok API URL** in the app code with your own server URL.  
+   Backend repository: [TrackFit Backend](https://github.com/Pranav-stac/TrackfitBackend)
+
 ---
 
 ## 🤝 Contributing
@@ -73,4 +84,21 @@ Have questions or feedback? Reach out at [your.email@example.com](mailto:your.em
 
 ---
 
+## 🏷️ Tags
+
+`flutter` `AR` `AI` `GAN` `OpenCV` `exercise tracking` `diet app` `fitness bot` `Google Fit integration` `real-time tracking`  
+`flutter AR` `AR in Flutter` `personalized diet plans` `posture correction` `voice bot` `AI fitness assistant`  
+`calorie tracking` `health tracking` `AR workout tutorials` `machine learning in fitness` `3D models`  
+`GAN for diet planning` `OpenCV posture analysis`
+
+---
+
 **TrackFit**—Your health, your way! ✨
+```
+
+### What to Do:
+1. Place the images (`1731005882429.jpeg`, `1731005882463.jpeg`, `1731005883121.jpeg`, `1731005883311.jpeg`) in the `Images/` folder of your GitHub repository.
+2. Replace placeholders like `yourusername` and `your.email@example.com` with your actual GitHub username and email.
+3. Push the updated `README.md` to your repository.
+
+Let me know if you need more edits! 🚀
